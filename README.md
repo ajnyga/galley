@@ -2,6 +2,8 @@
 
 This plugin is for mass importing Galley files to articles that have been already published in OJS.
 
+NOTICE! Always test the script on a separate server before using it in production!
+
 The plugin can only be used from the command line.
 
 `php importExport.php GalleyImportExportPlugin pathToDataFile pathToGalleyFileFolder contextPath importingUsername`
